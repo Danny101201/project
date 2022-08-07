@@ -1,0 +1,23 @@
+{
+  "name": "crospy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pretty": "npx prettier --write . --config .prettierrc "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danny101201/project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danny101201/project/issues"
+  },
+  "homepage": "https://github.com/Danny101201/project#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
