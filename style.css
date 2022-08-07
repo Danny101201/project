@@ -142,6 +142,7 @@ header {
   padding: 0.5rem 2.25rem;
   color: #fff;
   display: inline-block;
+  white-space: nowrap;
 }
 /* consult */
 .consult .context_container {
